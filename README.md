@@ -10,9 +10,9 @@ With mod support for:
 <img src="./previews/v2/demons.png">
 <details>
   <summary>
-    [!Note] Legacy will continue to recieve updates
     <h2>v1</h2>
   </summary>
+  <b>NOTE</b> - Legacy will continue to recieve updates
   <img src="./previews/v1/image.png">
   <img src="./previews/v1/2024-11-06_10-24.png">
 </details>
