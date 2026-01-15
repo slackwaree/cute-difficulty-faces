@@ -13,7 +13,8 @@ With mod support for:
     <h2>v1 (LEGACY)</h2>
   </summary>
   <b>NOTE</b> - Legacy will continue to recieve updates
-  <img src="./previews/v1/image.png">
-  <img src="./previews/v1/2024-11-06_10-24.png">
+  
+  ## Legacy has [moved](https://github.com/slackwaree/cute-difficulty-faces-legacy)!
+  
 </details>
 It genuinely warms my heart to know that people like my art, ty <3
