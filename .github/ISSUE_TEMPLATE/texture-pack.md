@@ -1,3 +1,5 @@
+## BEFORE YOU MAKE AN ISSUE, ENSURE IT IS NOT A DUPLICATE OF ANOTHER ISSUE. 
+
 ---
 name: Texture Pack
 about: Make an issue report
