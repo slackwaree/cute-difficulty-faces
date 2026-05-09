@@ -31,6 +31,10 @@ It depends on the popularity of a given mod. Mod downloads are what I take into 
 
 Go for it! Please just be courteous and credit me if you can — even if it's just a footnote in a text file. DM me on discord (@realslacc) for full res sprites.
 
+> "How do I enable the texture pack?"
+
+Apply it in `Settings > Graphics > Texture Packs`. Move the texture pack from the left to the right side of the screen so it's listed as "Active". Place it at the top of the list so it takes priority over other applied texture packs.
+
 <hr>
 
 It genuinely warms my heart to know that people like my art, ty <3
